@@ -57,23 +57,6 @@ House-Price-Prediction-ML/
 
 The dataset files (`train.csv`, `test.csv`, and `data_description.txt`) must be downloaded separately from Kaggle and placed alongside the Python script to run it locally.
 
-## How to Run
-
-1. Download the dataset from Kaggle.
-2. Install the required Python libraries:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
-3. Place the dataset files in the project folder.
-4. Run:
-
-```bash
-python House-Price-Prediction-ML.py
-```
-
-5. The script generates a `submission.csv` file containing predicted house prices.
 
 ## Key Learnings
 
